@@ -6,7 +6,7 @@ Hi there 👋 I'm Ravi Kant!
 
 👯 Looking to collaborate on: Research projects related to GNSS sensing, UAV remote sensing, atmospheric monitoring, and open-source geospatial tools.
 
-⚡ My Interests: Remote sensing, satellite data analysis, GNSS applications, Earth observation, environmental monitoring, and geospatial research.
+⚡ My Interests: Chess and Table Tennis.
 
 📫 How to reach me: [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravik2.paschim@gmail.com)  or  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravikant95)
 
